@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-2
+      auto: false
+    credentials:
+      access-key: AKIA6DEAUTHNL23IGLMV 
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-2.amazonaws.com/968784910810/testQueue 
